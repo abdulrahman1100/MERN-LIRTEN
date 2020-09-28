@@ -1,0 +1,21 @@
+.About {
+  background-color: white;
+  min-height: 100vh;
+  margin: 0%;
+  padding: 0%;
+}
+.Arial-Black{
+    font-family: "Arial Black", Gadget, Arial, sans-serif;
+    font-size: calc(30px + 2vmin);
+    font-weight: 900;
+  }
+.semi-Bold{
+    font-weight: 600;
+    font-size: calc(20px + 2vmin);
+    font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+  }
+  .regular {
+    font-size: calc(10px + 2vmin);
+	font-weight: 400;
+	font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+}
